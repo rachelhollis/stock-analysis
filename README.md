@@ -25,6 +25,9 @@ The data ranges significantly between the two years. This indicates there is a s
 #### Portion of Old Code
 
 ![resources/old](resources/old.PNG)
+![resources/VBA_Challenge_2017_pre](resources/VBA_Challenge_2017_pre.PNG) ![resources/VBA_Challenge_2018_pre](resources/VBA_Challenge_2018_pre.PNG)
+
+The initial code written looped row by row, over and over to display the results. The use of only one array (ticker) presented the need to output the Ticker, Total Volume, and Return before the next iteration. This process lead to a higher execution time of around 67000 seconds
 
 #### Portions of New Code
 
