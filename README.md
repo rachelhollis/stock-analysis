@@ -16,7 +16,7 @@ The code developed does its job. However, it might not be efficient or work as w
 
 Overall, 2017 had a higher return than 2018. Only one stock, TERP, in 2017 had a negative return. At the end of 2017, investing in alternative energy appears to be a smart move. However, the results from 2018 are shocking. All but two stocks have a negative return. Some, including DQ, have a high negative rate. DQ went from having a positive return rate of 199.45% to a negative rate of -62.60% despite having a drastic increase in Total Daily Volume. ENPH and RUN have a return rate of around 82%. Despite their high rates, the market appears to be volatile and would be a risky investment. 
 
-### Challenges
+#### Challenges
 
 The data ranges significantly between the two years. This indicates there is a strong influence over the market. However, the data set does not have the necessary data for further analysis into why and what the cause could be.
 
@@ -44,7 +44,7 @@ This process is not only more efficient, but allows the values to be stored and 
 
 ![resources/VBA_Challenge_2017](resources/VBA_Challenge_2017.PNG) ![resources/VBA_Challenge_2018](resources/VBA_Challenge_2018.PNG)
 
-
+After refactoring, the execution time decreases dramatically. The average run time for the new code is around .20 seconds. In comparison to the previous running time of 67000, this is significantly more efficient. Where as the previous code worked well with a relatively small dataset, the new code will work better when analyzing a much bigger dataset i.e. the whole stock market.
 
 #### Results
 
