@@ -22,13 +22,13 @@ The data ranges significantly between the two years. This indicates there is a s
 
 ### Refactoring
 
-#### Old Code
+#### Portion of Old Code
 
 ![resources/old](resources/old.PNG)
 
-#### New Code
+#### Portions of New Code
 
 ![resources/new](resources/new.PNG)
 
-![resources/output array](resources/output array.PNG)
+![resources/output_array](resources/output_array.PNG)
 
