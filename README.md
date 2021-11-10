@@ -51,6 +51,8 @@ After refactoring, the execution time decreases dramatically. The average run ti
 Refactoring code is one of the many jobs of coding. 
 
 There are many advantages in refactoring code including:
-'Make the code more efficient: When it comes to run time, working with different sizes of data, refactoring may help to significantly decrease the time it takes to perform tasks. The first time code is written it might not be that efficient and refactoring allows us to go back and improve the code already written. 
-'Make the code easier to understand: Restructuring, rewritting, and adding notes can help future coders in understanding what the elements of the code are supposed to do. In the future, this may allow for further refactoring or just a basic understanding of what the code is supposed to accomplish
-'Make the code more adaptive: for long-term goals, refactoring code can allow it to be more adaptive. The more efficient and well written the code, the easier it is to edit further for future demands or changes in software
+*Make the code more efficient: When it comes to run time, working with different sizes of data, refactoring may help to significantly decrease the time it takes to perform tasks. The first time code is written it might not be that efficient and refactoring allows us to go back and improve the code already written. 
+
+*Make the code easier to understand: Restructuring, rewritting, and adding notes can help future coders in understanding what the elements of the code are supposed to do. In the future, this may allow for further refactoring or just a basic understanding of what the code is supposed to accomplish
+
+*Make the code more adaptive: for long-term goals, refactoring code can allow it to be more adaptive. The more efficient and well written the code, the easier it is to edit further for future demands or changes in software
