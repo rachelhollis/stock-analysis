@@ -6,7 +6,7 @@ Writing and executing code on the first attempt is not always the best way to ac
 
 ### Purpose
 
-The code developed does its job. However, it might not be efficient or work as well for thousands of stocks. The purpose of this analysis is to refactor the code and determine whether the scrip runs faster.  
+The code developed does its job. However, it might not be efficient or work as well for thousands of stocks. The purpose of this analysis is to refactor the code and determine whether the script runs faster.  
 
 ## Analysis and Challenges
 
