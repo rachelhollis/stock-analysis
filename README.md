@@ -27,11 +27,25 @@ The data ranges significantly between the two years. This indicates there is a s
 ![resources/old](resources/old.PNG)
 ![resources/VBA_Challenge_2017_pre](resources/VBA_Challenge_2017_pre.PNG) ![resources/VBA_Challenge_2018_pre](resources/VBA_Challenge_2018_pre.PNG)
 
-The initial code written looped row by row, over and over to display the results. The use of only one array (ticker) presented the need to output the Ticker, Total Volume, and Return before the next iteration. This process lead to a higher execution time of around 67000 seconds
+The initial code written looped over the data set row by row, over and over to display the results. The use of only one array (ticker) presented the need to output the Ticker, Total Volume, and Return before the next iteration. This process lead to a higher execution time of around 67000 seconds
 
 #### Portions of New Code
 
+![resources/output_array](resources/output_array.PNG)
+
+Instead of one array, when refactoring the code three output arrays were added. This allowed the values for each ticker to be stored based on a the tickerIndex.
+
 ![resources/new](resources/new.PNG)
 
-![resources/output_array](resources/output_array.PNG)
+The refactored code allows it to loop once through the data and output the Ticker, Total Daily Volume, and Return to the corresponding arrays. After the loop through the data is finished, a loop through the arrays will output the required data by calling on the related tickerIndex for each value. 
+
+This process is not only more efficient, but allows the values to be stored and called upon later. 
+
+
+![resources/VBA_Challenge_2017](resources/VBA_Challenge_2017.PNG) ![resources/VBA_Challenge_2018](resources/VBA_Challenge_2018.PNG)
+
+
+
+#### Results
+
 
