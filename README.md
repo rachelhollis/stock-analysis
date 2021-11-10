@@ -12,4 +12,4 @@ The code developed does its job. However, it might not be efficient or work as w
 
 ### Stock Analysis Results
 
-![resources/2017](resources/2017.PNG)
+![resources/2017](resources/2017.PNG) ![resources/2018](resources/2018.PNG)
